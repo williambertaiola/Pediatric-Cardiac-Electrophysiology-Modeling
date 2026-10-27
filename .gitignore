@@ -1,0 +1,18 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+*.mex*
+
+# MATLAB editor files
+*.slxc
+
+# macOS system files
+.DS_Store
+__MACOSX/
+._*
+
+# Temporary files
+*.tmp
+*.bak
+*~
